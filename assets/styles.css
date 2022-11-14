@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    min-height: 100vh;
+    background-color: rgb(246, 246, 246);
+}
+
+img {
+    width: 100%;
+}
+
+span {
+    display: inline-block;
+}
+
+.banner {
+    width: 100vw;
+    background-color: rgb(53, 136, 181);
+    padding: 0;
+}
+
+.item {
+    width: 24%;
+}
+
+.icon {
+    color: rgb(53, 136, 181);
+}
